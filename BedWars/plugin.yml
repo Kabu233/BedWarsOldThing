@@ -1,0 +1,5 @@
+name: BedWars
+version: '${project.version}'
+main: me.kabusama.bedwars.BedWars
+depend: [ WorldEdit, Citizens ]
+authors: [ KaBuSaMa ]
