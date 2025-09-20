@@ -1,0 +1,11 @@
+name: BedWarsLobby
+version: 1.0-SNAPSHOT
+main: me.kabusama.bedwarslobby.BedWarsLobby
+softdepend:
+  - ProtocolLib
+
+commands:
+  bedwars:
+    description: BedWarsLobby Command
+  claim:
+    description: claim a noob reward
